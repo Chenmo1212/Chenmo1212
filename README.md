@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <!-- Typing SVG Fast Demo - https://readme-typing-svg.herokuapp.com/demo/ -->
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=e65e2a&width=380&height=45&lines=Full+Stack+web+developer;Self-taught+Code+Designer;Always+learning+new+things">
+    <img src="https://readme-typing-svg.herokuapp.com?color=e65e2a&width=300&height=45&lines=Full+Stack+web+developer;Self-taught+Code+Designer;Always+learning+new+things">
 </p>
 
 
