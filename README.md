@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 
 
 <h3 align="center">
     Hi~ Thank you for coming!
@@ -32,10 +31,10 @@ Here are some ideas to get you started:
 <p align="center">
     <img src="https://img.shields.io/badge/gender-%F0%9F%A4%B5 gentleman-critical">
     <img src="https://img.shields.io/static/v1?label=wechat&message=Alex5198023&color=7BB32E&logo=wechat">
-    <a href="https://pudongping.com" target="_blank"><img src="https://img.shields.io/badge/website-pudongping.com-orange"></a>
+    <a href="https://chenmo1212.cn" target="_blank"><img src="https://img.shields.io/badge/website-chenmo1212.cn-orange"></a>
     <!-- https://visitor-badge.glitch.me/ -->
-    <img src="https://visitor-badge.glitch.me/badge?page_id=pudongping.pudongping" alt="visitors">
-    [comment]: <> (<img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=102" alt="Open Source Love">)
+    ![visitors](https://visitor-badge.glitch.me/badge?page_id=chenmo1212.visitors&left_color=green&right_color=red)
+    <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=102" alt="Open Source Love">
 </p>
 
 <br/>
