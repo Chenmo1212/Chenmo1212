@@ -95,3 +95,6 @@ Here are some ideas to get you started:
 <a href="#"><img alt="Unreal Engine" src="https://img.shields.io/badge/-Unreal Engine 5-ffffff?logo=Unreal Engine&logoColor=black" /></a>
 <a href="#"><img alt="Blender" src="https://img.shields.io/badge/-Blender-e7e9ef?logo=Blender&logoColor=ea7600" /></a>
 <p/>
+
+- 📫 How to reach me: ✉️ [Email](mailto:chenmo991212@gmail.com)
+- 💬 Ask me about anything, I am happy to help;
