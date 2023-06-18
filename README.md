@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 <p align="center">
     <img src="https://img.shields.io/badge/gender-%F0%9F%A4%B5 gentleman-critical" />
-    <img src="https://img.shields.io/static/v1?label=wechat&message=Alex5198023&color=7BB32E&logo=wechat" />
+    <img src="https://img.shields.io/static/v1?label=Email&message=Chenmo991212&color=7BB32E&logo=Gmail" />
     <a href="https://chenmo1212.cn" target="_blank"><img src="https://img.shields.io/badge/website-chenmo1212.cn-orange"></a>
     <!-- https://visitor-badge.glitch.me/ -->
     <img src="https://vbr.wocr.tk/badge?page_id=chenmo1212.visitors&left_color=green&right_color=red" alt="Visitor" />
