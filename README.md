@@ -60,28 +60,38 @@ Here are some ideas to get you started:
 🛠️ **Languages and Tools:**
 
 <p>
-    <a href="https://github.com/search?q=user%3AChenmo1212+is%3Arepo+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3AChenmo1212+is%3Arepo+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3AChenmo1212+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="https://github.com/search?q=user%3Apudongping+is%3Arepo+language%3ABootstrap"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23554674.svg?logo=bootstrap"></a>
-    <a href="https://github.com/search?q=user%3AChenmo1212+is%3Arepo+language%3Ajavascript"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Chenmo1212+is%3Arepo+language%3Avue"><img alt="Vue" src="https://img.shields.io/badge/Vue%20-%232b3847.svg?logo=vue.js"></a>
-    <a href="https://github.com/search?q=user%3Chenmo1212+is%3Arepo+language%3Areact"><img alt="React" src="https://img.shields.io/badge/React%20-%23eff0f3.svg?logo=React"></a>
-    <a href="https://github.com/search?q=user%3Chenmo1212+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%233776AB.svg?logo=python&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Chenmo1212+is%3Arepo+language%3ALinux"><img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?logo=Linux&logoColor=black" /></a>
-    <a href="https://github.com/search?q=user%3Apudongping+is%3Arepo+language%3AShell"><img alt="Shell" src="https://img.shields.io/badge/Shell%20-%236fba48.svg?logo=shell"></a>
-    <a href="https://github.com/search?q=user%3Apudongping+is%3Arepo+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Apudongping+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
-    <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions%20-%232671E5.svg?logo=github%20actions&logoColor=white"></a>
-    <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
-    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
-    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%234479A1.svg?logo=mysql&logoColor=white"></a>
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-    <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-96e07d?logo=PyCharm&logoColor=ffffff" /></a>
-    <a href="#"><img alt="WebStorm" src="https://img.shields.io/badge/WebStorm-56c1eb?logo=WebStorm&logoColor=ffffff" /></a>
-    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" /></a>
-    <a href="#"><img alt="Nginx" src="https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white" /></a>
+<a href="https://github.com/search?q=user%3AChenmo1212+is%3Arepo+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3AChenmo1212+is%3Arepo+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3AChenmo1212+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
+<a href="https://github.com/search?q=user%3Apudongping+is%3Arepo+language%3ABootstrap"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23554674.svg?logo=bootstrap"></a>
+<a href="https://github.com/search?q=user%3Apudongping+is%3Arepo+language%3ABootstrap"><img alt="Jquery" src="https://img.shields.io/badge/Jquery%20-%23d18f4f.svg?logo=Jquery"></a>
+<a href="https://github.com/search?q=user%3AChenmo1212+is%3Arepo+language%3Ajavascript"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3Chenmo1212+is%3Arepo+language%3Avue"><img alt="Vue" src="https://img.shields.io/badge/Vue%20-%232b3847.svg?logo=vue.js"></a>
+<a href="https://github.com/search?q=user%3Chenmo1212+is%3Arepo+language%3Areact"><img alt="React" src="https://img.shields.io/badge/React%20-%23eff0f3.svg?logo=React"></a>
+<a href="#"><img alt="Flask" src="https://img.shields.io/badge/Typescript%20-%233178c6.svg?logo=typescript&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3Chenmo1212+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%233776AB.svg?logo=python&logoColor=white"></a>
+<a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask%20-%2341acc0.svg?logo=flask&logoColor=white"></a>
+<a href="#"><img alt="Computer vision" src="https://img.shields.io/badge/Computer Vision%20-%2379c3de.svg"></a>
+<a href="#"><img alt="Machine Learning" src="https://img.shields.io/badge/Machine Learning%20-%23dddddd.svg"></a>
+<a href="https://github.com/search?q=user%3Chenmo1212+is%3Arepo+language%3ALinux"><img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?logo=Linux&logoColor=black" /></a>
+<a href="https://github.com/search?q=user%3Apudongping+is%3Arepo+language%3AShell"><img alt="Shell" src="https://img.shields.io/badge/Shell%20-%236fba48.svg?logo=shell"></a>
+<a href="https://github.com/search?q=user%3Apudongping+is%3Arepo+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3Apudongping+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
+<a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions%20-%232671E5.svg?logo=github%20actions&logoColor=white"></a>
+<a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
+<a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
+<a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%234479A1.svg?logo=mysql&logoColor=white"></a>
+<a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
+<a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
+<a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
+<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+<a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-96e07d?logo=PyCharm&logoColor=ffffff" /></a>
+<a href="#"><img alt="WebStorm" src="https://img.shields.io/badge/WebStorm-56c1eb?logo=WebStorm&logoColor=ffffff" /></a>
+<a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" /></a>
+<a href="#"><img alt="Nginx" src="https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white" /></a>
+<a href="#"><img alt="C/C++" src="https://img.shields.io/badge/-C/C++-1774af?logo=C&logoColor=white" /></a>
+<a href="#"><img alt="OpenGL" src="https://img.shields.io/badge/-openGL-52829f?logo=openGL&logoColor=white" /></a>
+<a href="#"><img alt="OpenGL" src="https://img.shields.io/badge/-Unity-f7f7f7?logo=Unity&logoColor=black" /></a>
+<a href="#"><img alt="Unreal Engine" src="https://img.shields.io/badge/-Unreal Engine 5-ffffff?logo=Unreal Engine&logoColor=black" /></a>
+<a href="#"><img alt="Blender" src="https://img.shields.io/badge/-Blender-e7e9ef?logo=Blender&logoColor=ea7600" /></a>
 <p/>
