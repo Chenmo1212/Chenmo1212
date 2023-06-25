@@ -98,3 +98,34 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: ✉️ [Email](mailto:chenmo991212@gmail.com)
 - 💬 Ask me about anything, I am happy to help;
+
+
+🔥 My projects:
+---
+### Personal Portfolio
+- [Front-end](https://github.com/Chenmo1212/homePage) - Portfolio developed in `html`, `css` and `javascript`.
+- [Back-end](https://github.com/Chenmo1212/homepage_backend) - A message board back-end project developed using the `flask` framework based on `python`.
+
+### College Projects
+
+- [TCD-Real_time_Rendering](https://github.com/Chenmo1212/TCD-Real_time_Rendering) 
+- [TCD-5C1_MOTION_PICTURE_ENGINEERING](https://github.com/Chenmo1212/TCD-5C1_MOTION_PICTURE_ENGINEERING) 
+- [TCD-Real-time_Animation](https://github.com/Chenmo1212/TCD-Real-time_Animation)
+- [TCD-Augument_Reality](https://github.com/Chenmo1212/TCD-Augument_Reality)
+- [TCD-Mathematics_of_Light_and_Sound](https://github.com/Chenmo1212/TCD-Mathematics_of_Light_and_Sound) 
+- [TCD-Research_and_Innovation_Methods](https://github.com/Chenmo1212/TCD-Research_and_Innovation_Methods) 
+- [TCD-Data_Analysis](https://github.com/Chenmo1212/TCD-Data_Analysis)
+- [TCD-Computer_Vision](https://github.com/Chenmo1212/TCD-Computer_Vision)
+- [TCD-Machine_Learning](https://github.com/Chenmo1212/TCD-Machine_Learning) 
+- [TCD-Advanced_Software_Engineering](https://github.com/Chenmo1212/TCD-Advanced_Software_Engineering) 
+- [TCD_Computer-Graphics](https://github.com/Chenmo1212/TCD_Computer-Graphics) 
+
+### Others
+
+- [YouthStudy](https://github.com/Chenmo1212/study) - YouthStudy Wechat moments of friends repost screenshot generator.
+- [homepage_of_game](https://github.com/Chenmo1212/homepage_of_game) - H5 game library
+- [Fika Reading](https://github.com/Chenmo1212/readingBook) - A reader that integrates short articles by famous modern writers
+- [Tiku](https://github.com/Chenmo1212/tiku) - A back-testing website made for a large number of questions required for university courses
+- [Wechat_commend_article](https://github.com/Chenmo1212/Wechat_commend_article) - Recommended Article Generator for WeChat Official Accounts
+- [Hayao_Miyazaki](https://github.com/Chenmo1212/Hayao_Miyazaki) - Hayao Miyazaki Works Promotion Site
+- [CUST_delivery](https://github.com/Chenmo1212/CUST_delivery) - A wechat mini program about running errands for college students
