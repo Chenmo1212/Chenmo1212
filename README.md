@@ -123,6 +123,7 @@ Here are some ideas to get you started:
 ### Others
 
 - [YouthStudy](https://github.com/Chenmo1212/study) - YouthStudy Wechat moments of friends repost screenshot generator.
+- [Class_Schedule](https://github.com/Chenmo1212/Class_schedule) - Temporary class schedule
 - [homepage_of_game](https://github.com/Chenmo1212/homepage_of_game) - H5 game library
 - [Fika Reading](https://github.com/Chenmo1212/readingBook) - A reader that integrates short articles by famous modern writers
 - [Tiku](https://github.com/Chenmo1212/tiku) - A back-testing website made for a large number of questions required for university courses
