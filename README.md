@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 𝑰 𝒕𝒂𝒌𝒆 𝒈𝒓𝒆𝒂𝒕 𝒄𝒂𝒓𝒆 𝒊𝒏 𝒕𝒉𝒆 𝒂𝒓𝒄𝒉𝒊𝒕𝒆𝒄𝒕𝒖𝒓𝒆 𝒂𝒏𝒅 𝒄𝒐𝒅𝒆 𝒒𝒖𝒂𝒍𝒊𝒕𝒚 𝒐𝒇 𝒕𝒉𝒆 𝒕𝒉𝒊𝒏𝒈𝒔 𝑰 𝒃𝒖𝒊𝒍𝒅.
 
-𝑰 𝒂𝒎 𝒂𝒍𝒔𝒐 𝒂𝒏 𝒐𝒑𝒆𝒏-𝒔𝒐𝒖𝒓𝒄𝒆 𝒆𝒏𝒕𝒉𝒖𝒔𝒊𝒂𝒔𝒕 𝒂𝒏𝒅 𝒎𝒂𝒊𝒏𝒕𝒂𝒊𝒏𝒆𝒓. 
+𝑰 𝒂𝒎 𝒂𝒍𝒔𝒐 𝒂𝒏 𝒐𝒑𝒆𝒏-𝒔𝒐𝒖𝒓𝒄𝒆 𝒆𝒏𝒕𝒉𝒖𝒔𝒊𝒂𝒔𝒕 𝒂𝒏𝒅 𝒎𝒂𝒊𝒏𝒕𝒂𝒊𝒏𝒆𝒓.
 
 𝑰 𝒍𝒆𝒂𝒓𝒏𝒆𝒅 𝒂 𝒍𝒐𝒕 𝒇𝒓𝒐𝒎 𝒕𝒉𝒆 𝒐𝒑𝒆𝒏-𝒔𝒐𝒖𝒓𝒄𝒆 𝒄𝒐𝒎𝒎𝒖𝒏𝒊𝒕𝒚 𝒂𝒏𝒅 𝑰 𝒍𝒐𝒗𝒆 𝒉𝒐𝒘 𝒄𝒐𝒍𝒍𝒂𝒃𝒐𝒓𝒂𝒕𝒊𝒐𝒏 𝒂𝒏𝒅 𝒌𝒏𝒐𝒘𝒍𝒆𝒅𝒈𝒆 𝒔𝒉𝒂𝒓𝒊𝒏𝒈 𝒉𝒂𝒑𝒑𝒆𝒏𝒆𝒅 𝒕𝒉𝒓𝒐𝒖𝒈𝒉 𝒐𝒑𝒆𝒏-𝒔𝒐𝒖𝒓𝒄𝒆.
 
@@ -107,22 +107,10 @@ Here are some ideas to get you started:
 - [Front-end](https://github.com/Chenmo1212/homePage) - Portfolio developed in `html`, `css` and `javascript`.
 - [Back-end](https://github.com/Chenmo1212/homepage_backend) - A message board back-end project developed using the `flask` framework based on `python`.
 
-### College Projects
-
-- [TCD-Real_time_Rendering](https://github.com/Chenmo1212/TCD-Real_time_Rendering) 
-- [TCD-5C1_MOTION_PICTURE_ENGINEERING](https://github.com/Chenmo1212/TCD-5C1_MOTION_PICTURE_ENGINEERING) 
-- [TCD-Real-time_Animation](https://github.com/Chenmo1212/TCD-Real-time_Animation)
-- [TCD-Augument_Reality](https://github.com/Chenmo1212/TCD-Augument_Reality)
-- [TCD-Mathematics_of_Light_and_Sound](https://github.com/Chenmo1212/TCD-Mathematics_of_Light_and_Sound) 
-- [TCD-Research_and_Innovation_Methods](https://github.com/Chenmo1212/TCD-Research_and_Innovation_Methods) 
-- [TCD-Data_Analysis](https://github.com/Chenmo1212/TCD-Data_Analysis)
-- [TCD-Computer_Vision](https://github.com/Chenmo1212/TCD-Computer_Vision)
-- [TCD-Machine_Learning](https://github.com/Chenmo1212/TCD-Machine_Learning) 
-- [TCD-Advanced_Software_Engineering](https://github.com/Chenmo1212/TCD-Advanced_Software_Engineering) 
-- [TCD_Computer-Graphics](https://github.com/Chenmo1212/TCD_Computer-Graphics) 
 
 ### Others
 
+- [YopuHelper](https://github.com/Chenmo1212/Yopu-Helper) - A Tampermonkey script to help print and play audio for yopu.co.
 - [YouthStudy](https://github.com/Chenmo1212/study) - YouthStudy Wechat moments of friends repost screenshot generator.
 - [Class_Schedule](https://github.com/Chenmo1212/Class_schedule) - Temporary class schedule
 - [homepage_of_game](https://github.com/Chenmo1212/homepage_of_game) - H5 game library
@@ -131,3 +119,19 @@ Here are some ideas to get you started:
 - [Wechat_commend_article](https://github.com/Chenmo1212/Wechat_commend_article) - Recommended Article Generator for WeChat Official Accounts
 - [Hayao_Miyazaki](https://github.com/Chenmo1212/Hayao_Miyazaki) - Hayao Miyazaki Works Promotion Site
 - [CUST_delivery](https://github.com/Chenmo1212/CUST_delivery) - A wechat mini program about running errands for college students
+
+
+
+### College Projects
+
+- [TCD-Real_time_Rendering](https://github.com/Chenmo1212/TCD-Real_time_Rendering)
+- [TCD-5C1_MOTION_PICTURE_ENGINEERING](https://github.com/Chenmo1212/TCD-5C1_MOTION_PICTURE_ENGINEERING)
+- [TCD-Real-time_Animation](https://github.com/Chenmo1212/TCD-Real-time_Animation)
+- [TCD-Augument_Reality](https://github.com/Chenmo1212/TCD-Augument_Reality)
+- [TCD-Mathematics_of_Light_and_Sound](https://github.com/Chenmo1212/TCD-Mathematics_of_Light_and_Sound)
+- [TCD-Research_and_Innovation_Methods](https://github.com/Chenmo1212/TCD-Research_and_Innovation_Methods)
+- [TCD-Data_Analysis](https://github.com/Chenmo1212/TCD-Data_Analysis)
+- [TCD-Computer_Vision](https://github.com/Chenmo1212/TCD-Computer_Vision)
+- [TCD-Machine_Learning](https://github.com/Chenmo1212/TCD-Machine_Learning)
+- [TCD-Advanced_Software_Engineering](https://github.com/Chenmo1212/TCD-Advanced_Software_Engineering)
+- [TCD_Computer-Graphics](https://github.com/Chenmo1212/TCD_Computer-Graphics)
