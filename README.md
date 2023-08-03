@@ -101,9 +101,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything, I am happy to help;
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/djm-xjtu/djm-xjtu/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/djm-xjtu/djm-xjtu/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/djm-xjtu/djm-xjtu/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chenmo1212/Chenmo1212/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chenmo1212/Chenmo1212/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Chenmo1212/Chenmo1212/output/github-contribution-grid-snake.svg">
 </picture>
 
 
