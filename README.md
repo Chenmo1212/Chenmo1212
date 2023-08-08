@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">
     Hi~ Thank you for coming!
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="25" height="25" />
 </h3>
 
 <!-- Typing SVG - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-🎉 **Welcome to my GitHub profile!**
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="25" height="25" /> **Welcome to my GitHub profile!**
 
 <!-- Weird English generator - https://www.dute.org/weird-fonts -->
 <!-- Hi, I'm Long, (prefer to be called ✨Chandler✨), a passionate self-taught full-stack web developer and a fun software engineer.-->
@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 <!-- code.gif -->
 <img align="right" alt="GIF" src="https://github.com/pudongping/pudongping/blob/main/code.gif?raw=true" width="500" height="320" />
 
-🛠️ **Languages and Tools:**
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> **Languages and Tools:**
 
 <p>
 <a href="https://github.com/search?q=user%3AChenmo1212+is%3Arepo+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
@@ -97,8 +97,8 @@ Here are some ideas to get you started:
 <a href="#"><img alt="Blender" src="https://img.shields.io/badge/-Blender-e7e9ef?logo=Blender&logoColor=ea7600" /></a>
 <p/>
 
-- 📫 How to reach me: ✉️ [Email](mailto:chenmo991212@gmail.com)
-- 💬 Ask me about anything, I am happy to help;
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Closed%20Mailbox%20with%20Raised%20Flag.png" alt="Closed Mailbox with Raised Flag" width="25" height="25" /> How to reach me: ✉️ [Email](mailto:chenmo991212@gmail.com)
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Left%20Speech%20Bubble.png" alt="Left Speech Bubble" width="25" height="25" /> Ask me about anything, I am happy to help;
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chenmo1212/Chenmo1212/output/github-contribution-grid-snake-dark.svg">
@@ -106,8 +106,7 @@ Here are some ideas to get you started:
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Chenmo1212/Chenmo1212/output/github-contribution-grid-snake.svg">
 </picture>
 
-
-🔥 My projects:
+<img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Fire.png" alt="Fire" width="25" height="25" /> My projects:
 ---
 ### Personal Portfolio
 - [Front-end](https://github.com/Chenmo1212/homePage) - Portfolio developed in `html`, `css` and `javascript`.
@@ -141,3 +140,10 @@ Here are some ideas to get you started:
 - [TCD-Machine_Learning](https://github.com/Chenmo1212/TCD-Machine_Learning)
 - [TCD-Advanced_Software_Engineering](https://github.com/Chenmo1212/TCD-Advanced_Software_Engineering)
 - [TCD_Computer-Graphics](https://github.com/Chenmo1212/TCD_Computer-Graphics)
+
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/See-No-Evil%20Monkey.png" alt="See-No-Evil Monkey" width="25" height="25" /> Q&A
+
+- **Why do you have so many names?**
+    - My birth name is Long. But when I first came into contact with the Internet, I didn't want to expose my real name, so I gave myself a nickname ChenMo. After using it for a long time, the email address, the domain name of the website, and even many social media accounts are all named after ChenMo. Later, I found that this name was not easy to pronounce for friends from some countries, so I gave another English name Chandler. All three names are now in use. You can choose any name you like to call me.
+    - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Zany%20Face.png" alt="Zany Face" width="25" height="25" />
