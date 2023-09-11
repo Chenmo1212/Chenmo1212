@@ -32,7 +32,7 @@ Here are some ideas to get you started:
     <a href="https://chenmo1212.cn" target="_blank"><img src="https://img.shields.io/badge/Portfolio-chenmo1212.cn-orange&logo=homebrew"></a>
     <!-- https://visitor-badge.glitch.me/ -->
     <!-- https://github.com/Nathan13888/VisitorBadgeReloaded#-migrating-from-visitor-badge -->
-    <img src="https://vbr.wocr.tk/badge?page_id=chenmo1212.visitors&left_color=green&right_color=red" alt="Visitor" />
+    <img src="https://vbr.wocr.tk/badge?page_id=chenmo1212.visitors&left_color=green&right_color=red&hit=false" alt="Visitor" />
     <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=102" alt="Open Source Love" />
 </p>
 
