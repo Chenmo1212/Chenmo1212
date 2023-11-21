@@ -100,11 +100,16 @@ Here are some ideas to get you started:
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Closed%20Mailbox%20with%20Raised%20Flag.png" alt="Closed Mailbox with Raised Flag" width="25" height="25" /> How to reach me: ✉️ [Email](mailto:chenmo991212@gmail.com)
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Left%20Speech%20Bubble.png" alt="Left Speech Bubble" width="25" height="25" /> Ask me about anything, I am happy to help;
 
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chenmo1212/Chenmo1212/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chenmo1212/Chenmo1212/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Chenmo1212/Chenmo1212/output/github-contribution-grid-snake.svg">
 </picture>
+
+
+
+<a href="https://www.buymeacoffee.com/chenmo" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Fire.png" alt="Fire" width="25" height="25" /> My projects:
 ---
