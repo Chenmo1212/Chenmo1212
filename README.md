@@ -30,7 +30,6 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/gender-%F0%9F%A4%B5 gentleman-critical" />
     <a href="mailto:chenmo991212@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?label=Email&message=Chenmo991212&color=7BB32E&logo=Gmail"/></a>
     <a href="https://chenmo1212.cn" target="_blank"><img src="https://img.shields.io/badge/Portfolio-chenmo1212.cn-orange&logo=homebrew"></a>
-
     <!-- https://github.com/antonkomarev/github-profile-views-counter -->
     <img src="https://komarev.com/ghpvc/?username=chenmo1212&label=Visitors&left_color=green&right_color=red&hit=false" alt="Visitor" />
     <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=102" alt="Open Source Love" />
