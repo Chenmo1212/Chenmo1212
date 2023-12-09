@@ -120,6 +120,9 @@ Here are some ideas to get you started:
 
 ### Others
 
+- [FE_REST-Countries](https://github.com/Chenmo1212/FE_Rest_Countries) - A front-end project about displaying different country information using REST-Country
+- [BE_REST-Countries](https://github.com/Chenmo1212/BE_Rest_Countries) - A back-end project about forwarding REST-Country api using RESTful API style
+- [Simple_Pull_Request_Page](https://github.com/Chenmo1212/Simple_github_prs) - A project about rewriting the Github pull request page based on Github API
 - [YopuHelper](https://github.com/Chenmo1212/Yopu-Helper) - A Tampermonkey script to help print and play audio for yopu.co.
 - [YouthStudy](https://github.com/Chenmo1212/study) - YouthStudy Wechat moments of friends repost screenshot generator.
 - [Class_Schedule](https://github.com/Chenmo1212/Class_schedule) - Temporary class schedule
