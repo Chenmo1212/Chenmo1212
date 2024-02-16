@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 𝑰 𝒍𝒆𝒂𝒓𝒏𝒆𝒅 𝒂 𝒍𝒐𝒕 𝒇𝒓𝒐𝒎 𝒕𝒉𝒆 𝒐𝒑𝒆𝒏-𝒔𝒐𝒖𝒓𝒄𝒆 𝒄𝒐𝒎𝒎𝒖𝒏𝒊𝒕𝒚 𝒂𝒏𝒅 𝑰 𝒍𝒐𝒗𝒆 𝒉𝒐𝒘 𝒄𝒐𝒍𝒍𝒂𝒃𝒐𝒓𝒂𝒕𝒊𝒐𝒏 𝒂𝒏𝒅 𝒌𝒏𝒐𝒘𝒍𝒆𝒅𝒈𝒆 𝒔𝒉𝒂𝒓𝒊𝒏𝒈 𝒉𝒂𝒑𝒑𝒆𝒏𝒆𝒅 𝒕𝒉𝒓𝒐𝒖𝒈𝒉 𝒐𝒑𝒆𝒏-𝒔𝒐𝒖𝒓𝒄𝒆.
 
 <!-- code.gif -->
-<img align="right" alt="GIF" src="https://github.com/pudongping/pudongping/blob/main/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="coding.gif" width="500" height="320" />
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> **Languages and Tools:**
 
@@ -62,8 +62,8 @@ Here are some ideas to get you started:
 <a href="https://github.com/search?q=user%3AChenmo1212+is%3Arepo+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3AChenmo1212+is%3Arepo+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3AChenmo1212+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
-<a href="https://github.com/search?q=user%3Apudongping+is%3Arepo+language%3ABootstrap"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23554674.svg?logo=bootstrap"></a>
-<a href="https://github.com/search?q=user%3Apudongping+is%3Arepo+language%3ABootstrap"><img alt="Jquery" src="https://img.shields.io/badge/Jquery%20-%23d18f4f.svg?logo=Jquery"></a>
+<a href="https://github.com/search?q=user%3Achenmo1212+is%3Arepo+language%3ABootstrap"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23554674.svg?logo=bootstrap"></a>
+<a href="https://github.com/search?q=user%3Achenmo1212+is%3Arepo+language%3ABootstrap"><img alt="Jquery" src="https://img.shields.io/badge/Jquery%20-%23d18f4f.svg?logo=Jquery"></a>
 <a href="https://github.com/search?q=user%3AChenmo1212+is%3Arepo+language%3Ajavascript"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3Chenmo1212+is%3Arepo+language%3Avue"><img alt="Vue" src="https://img.shields.io/badge/Vue%20-%232b3847.svg?logo=vue.js"></a>
 <a href="https://github.com/search?q=user%3Chenmo1212+is%3Arepo+language%3Areact"><img alt="React" src="https://img.shields.io/badge/React%20-%23eff0f3.svg?logo=React"></a>
@@ -73,9 +73,9 @@ Here are some ideas to get you started:
 <a href="#"><img alt="Computer vision" src="https://img.shields.io/badge/Computer Vision%20-%2379c3de.svg"></a>
 <a href="#"><img alt="Machine Learning" src="https://img.shields.io/badge/Machine Learning%20-%23dddddd.svg"></a>
 <a href="https://github.com/search?q=user%3Chenmo1212+is%3Arepo+language%3ALinux"><img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?logo=Linux&logoColor=black" /></a>
-<a href="https://github.com/search?q=user%3Apudongping+is%3Arepo+language%3AShell"><img alt="Shell" src="https://img.shields.io/badge/Shell%20-%236fba48.svg?logo=shell"></a>
-<a href="https://github.com/search?q=user%3Apudongping+is%3Arepo+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3Apudongping+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3Achenmo1212+is%3Arepo+language%3AShell"><img alt="Shell" src="https://img.shields.io/badge/Shell%20-%236fba48.svg?logo=shell"></a>
+<a href="https://github.com/search?q=user%3Achenmo1212+is%3Arepo+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3Achenmo1212+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
 <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions%20-%232671E5.svg?logo=github%20actions&logoColor=white"></a>
 <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
 <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
