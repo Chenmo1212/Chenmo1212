@@ -119,13 +119,15 @@ Here are some ideas to get you started:
 
 ### Others
 
+
+- [Irish_Drive_Theory_Test](https://github.com/Chenmo1212/Irish_Drive_Theory_Test) - A website for the Irish driving license theory test
 - [FE_REST-Countries](https://github.com/Chenmo1212/FE_Rest_Countries) - A front-end project about displaying different country information using REST-Country
 - [BE_REST-Countries](https://github.com/Chenmo1212/BE_Rest_Countries) - A back-end project about forwarding REST-Country api using RESTful API style
 - [Simple_Pull_Request_Page](https://github.com/Chenmo1212/Simple_github_prs) - A project about rewriting the Github pull request page based on Github API
 - [Hayao_Miyazaki](https://github.com/Chenmo1212/Hayao_Miyazaki) - Hayao Miyazaki Works Promotion Site
 - [Fika Reading](https://github.com/Chenmo1212/readingBook) - A reader that integrates short articles by famous modern writers
 - [Tiku](https://github.com/Chenmo1212/tiku) - A back-testing website made for a large number of questions required for university courses
-- [homepage_of_game](https://github.com/Chenmo1212/homepage_of_game) - H5 game library
+- [Homepage_of_game](https://github.com/Chenmo1212/homepage_of_game) - H5 game library
 - [YopuHelper](https://github.com/Chenmo1212/Yopu-Helper) - A Tampermonkey script to help print and play audio for yopu.co.
 - [YouthStudy](https://github.com/Chenmo1212/study) - YouthStudy Wechat moments of friends repost screenshot generator.
 - [Class_Schedule](https://github.com/Chenmo1212/Class_schedule) - Temporary class schedule
